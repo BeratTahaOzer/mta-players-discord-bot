@@ -1,6 +1,5 @@
 token,type-token
-staffs,Console,Kurucu,Admin
-vips,BronzeVip,GoldVip,SilverVip
+staffs,Console,A8,A7,A6,A5,A4,A3,A2,A1,Trial Admin
 player_list_file_way,C:/Users/Ali/Desktop/[ATA]Discordstatus/player_count.txt
 guild_id,-
 channel_id,-
